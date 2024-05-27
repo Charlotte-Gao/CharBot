@@ -2,7 +2,6 @@ import openai
 import streamlit as st
 from streamlit_chat import message
 from config import *
-from bokeh.models import CustomJS
 
 st.write("""
 # This is a personal AI-powered app created for Charlene *Lee* :sunglasses:! 
